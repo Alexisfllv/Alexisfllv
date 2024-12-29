@@ -1,6 +1,7 @@
 # 👋 Hola, soy Alexis 
 
-![Banner]([https://via.placeholder.com/1200x300?text=Bienvenido+a+mi+perfil+GitHub](https://4kwallpapers.com/images/walls/thumbs_2t/17019.jpg))
+![Banner](https://www.iclarified.com/images/news/93902/449648/449648-1280.avif)
+
 
 ### 🌟 Sobre mí
 Soy un desarrollador backend apasionado por la programación y el aprendizaje continuo. Me especializo en **Java**, con experiencia en la creación de servicios RESTful, manejo de bases de datos y desarrollo de aplicaciones web.  
