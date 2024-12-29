@@ -38,7 +38,6 @@ Soy un desarrollador backend apasionado por la programación y el aprendizaje co
 
 ### ⚡ Datos curiosos
 - 😄 Pronombres: Él/Él.
-- 🎮 Fanático de los videojuegos como **Dota 2** y estrategias tipo Tower Defense.
 - 🌍 Vivo en Lima, Perú.
 
 ---
