@@ -58,6 +58,11 @@ Soy un desarrollador backend apasionado por la programación y el aprendizaje co
 
 ---
 
+### 📈 Estadísticas de GitHub 2
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexisfllv&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexisfllv&layout=compact&theme=radical&hide=c)
+
+
 <!---
 Alexisfllv/Alexisfllv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
