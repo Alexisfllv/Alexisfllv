@@ -51,17 +51,6 @@ Soy un desarrollador backend apasionado por la programación y el aprendizaje co
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
----
-
-### 📈 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexisfllv&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexisfllv&layout=compact&theme=radical)
-
----
-
-### 📈 Estadísticas de GitHub 2
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexisfllv&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexisfllv&layout=compact&theme=radical&hide=c)
 
 
 <!---
