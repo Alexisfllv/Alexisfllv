@@ -1,4 +1,4 @@
-# 👋 Hola, soy Alexis 
+# 👋 Hola, soy Alexis Fawcett
 
 ![Banner](https://i.pinimg.com/736x/bb/ef/11/bbef111efffea905d52db3c0c34a18a2.jpg)
 
@@ -39,8 +39,6 @@ Soy un desarrollador backend apasionado por la programación y el aprendizaje co
 ### ⚡ Datos curiosos
 - 😄 Pronombres: Él/Él.
 - 🌍 Vivo en Lima, Perú.
-
-
 
 
 # Tecnologías Utilizadas en Persona
