@@ -32,7 +32,6 @@ Soy un desarrollador backend apasionado por la programación y el aprendizaje co
 ### 📫 ¿Cómo contactarme?
 - 📧 Correo: alexisfllv@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/tu-perfil)
-- 🐦 [Twitter](https://twitter.com/tu_usuario)  
 
 ---
 
