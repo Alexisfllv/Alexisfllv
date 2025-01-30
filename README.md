@@ -1,5 +1,3 @@
-# 👋 Hola, soy Alexis
-
 ![Banner](https://i.pinimg.com/736x/bb/ef/11/bbef111efffea905d52db3c0c34a18a2.jpg)
 
 ### 🌟 Sobre mí
