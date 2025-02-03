@@ -14,7 +14,6 @@ Soy un desarrollador backend apasionado por la programación y el aprendizaje co
 
 ### 🚀 Actualmente estoy aprendiendo
 - **Java 8-21**, incluyendo programación funcional.
-- **Python** para procesamiento de datos en Big Data.
 - **Buenas prácticas en Git y GitHub**.
 
 ---
