@@ -2,9 +2,7 @@
 
 ### 🌟 Sobre mí
 Soy un desarrollador backend apasionado por la programación y el aprendizaje continuo. Me especializo en **Java**, con experiencia en la creación de servicios RESTful, manejo de bases de datos y desarrollo de aplicaciones web.  
-
 ---
-
 ### 🎯 Intereses
 - 💻 Desarrollo backend con Java y frameworks como **Spring Boot**.
 - 🌐 Diseño de APIs REST documentadas con **Swagger**.
