@@ -7,20 +7,16 @@ Soy un desarrollador backend apasionado por la programación y el aprendizaje co
 - 🌐 Diseño de APIs REST documentadas con **Swagger**.
 - 🎨 Exploración de tecnologías frontend como **Angular**.
 ---
-
 ### 🚀 Actualmente estoy aprendiendo
 - **Java 8-21**, incluyendo programación funcional.
 - **Buenas prácticas en Git y GitHub**.
 - **Buenas prácticas en Git y GitHub**.
 - **Buenas prácticas en Git y GitHub**.
-
 ---
-
 ### 🤝 Me gustaría colaborar en
 - Proyectos backend que utilicen **Java** y **Spring Boot**.
 - Equipos que trabajen en **optimización de bases de datos**.
 - Desarrollo de herramientas de análisis de datos en **Python**.
-
 ---
 
 ### 📫 ¿Cómo contactarme?
