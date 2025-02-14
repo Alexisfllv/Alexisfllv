@@ -1,5 +1,4 @@
 ![Banner](https://i.pinimg.com/736x/bb/ef/11/bbef111efffea905d52db3c0c34a18a2.jpg)
-
 ### 🌟 Sobre mí
 Soy un desarrollador backend apasionado por la programación y el aprendizaje continuo. Me especializo en **Java**, con experiencia en la creación de servicios RESTful, manejo de bases de datos y desarrollo de aplicaciones web.  
 ---
