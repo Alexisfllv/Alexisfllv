@@ -6,7 +6,6 @@ Soy un desarrollador backend apasionado por la programación y el aprendizaje co
 - 💻 Desarrollo backend con Java y frameworks como **Spring Boot**.
 - 🌐 Diseño de APIs REST documentadas con **Swagger**.
 - 🎨 Exploración de tecnologías frontend como **Angular**.
-
 ---
 
 ### 🚀 Actualmente estoy aprendiendo
