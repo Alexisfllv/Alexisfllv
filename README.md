@@ -25,8 +25,6 @@ Soy un desarrollador backend apasionado por la programación y el aprendizaje co
 ### ⚡ Datos curiosos
 - 😄 Pronombres: Él/Él.
 - 🌍 Vivo en Lima, Perú.
-
-
 # Tecnologías Utilizadas en Persona
 
 | Lenguaje | Framework | Base de Datos | Documentación API |
