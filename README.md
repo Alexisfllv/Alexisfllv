@@ -26,7 +26,6 @@ Soy un desarrollador backend apasionado por la programación y el aprendizaje co
 - 😄 Pronombres: Él/Él.
 - 🌍 Vivo en Lima, Perú.
 # Tecnologías Utilizadas en Persona
-
 | Lenguaje | Framework | Base de Datos | Documentación API |
 |----------|-----------|---------------|-------------------|
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) |
