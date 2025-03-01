@@ -14,8 +14,7 @@ Soy un desarrollador backend apasionado por la programación y el aprendizaje co
 ### 🤝 Me gustaría colaborar en
 - Proyectos backend que utilicen **Java** y **Spring Boot**.
 - Equipos que trabajen en **optimización de bases de datos**.
-- Desarrollo de herramientas de análisis de datos en **Python**.
----
+- ---
 ### 📫 ¿Cómo contactarme?
 - 📧 Correo: alexisfllv@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/tu-perfil)
