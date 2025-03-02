@@ -10,6 +10,8 @@ Soy un desarrollador backend apasionado por la programación y el aprendizaje co
 ### 🚀 Actualmente estoy aprendiendo
 - **Java 8-21**, incluyendo programación funcional.
 - **Buenas prácticas en Git y GitHub**.
+- **Buenas prácticas en Git y GitHub**.
+- **Buenas prácticas en Git y GitHub**.
 ---
 ### 🤝 Me gustaría colaborar en
 - Proyectos backend que utilicen **Java** y **Spring Boot**.
