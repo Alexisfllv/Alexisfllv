@@ -12,6 +12,8 @@ Soy un desarrollador backend apasionado por la programación y el aprendizaje co
 - **Buenas prácticas en Git y GitHub**.
 - **Buenas prácticas en Docker**
 - **Buenas prácticas SQL-NOSQL**
+- **Principios SOLID**
+- **Clean Code**
 ---
 ### 🤝 Me gustaría colaborar en
 - Proyectos backend que utilicen **Java** y **Spring Boot**.
