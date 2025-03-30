@@ -11,7 +11,7 @@ Soy un desarrollador backend apasionado por la programación y el aprendizaje co
 - **Java 8-21**, incluyendo programación funcional.
 - **Buenas prácticas en Git y GitHub**.
 - **Buenas prácticas en Docker**
-- **Buenas prácticas SQL-NOSQL**
+- **Buenas prácticas SQL**
 - **Principios SOLID**
 - **Clean Code**
 ---
