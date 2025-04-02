@@ -12,7 +12,7 @@ Soy un desarrollador backend apasionado por la programación y el aprendizaje co
 - **Buenas prácticas en Git y GitHub**.
 - **Buenas prácticas en Docker**
 - **Buenas prácticas SQL**
-- **Principios SOLID**
+- **SOLID, Clean Code**
 - **Clean Code**
 ---
 ### 🤝 Me gustaría colaborar en
