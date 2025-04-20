@@ -2,7 +2,7 @@
 
 Aquí tienes un GIF animado como ejemplo:
 
-![GIF de Matrix](https://i.pinimg.com/originals/8a/2f/66/8a2f66cd656b6bd66fea40947e505b4e.gif)
+![GIF de Matrix]([https://i.pinimg.com/originals/8a/2f/66/8a2f66cd656b6bd66fea40947e505b4e.gif](https://i.pinimg.com/originals/60/a5/85/60a58511e5c70a418ac743f7df8134fa.gif))
 
 ### 🌟 Sobre mí
 Soy un desarrollador backend apasionado por la programación y el aprendizaje continuo. Me especializo en **Java**, con experiencia en la creación de servicios RESTful, manejo de bases de datos y desarrollo de aplicaciones web.  
