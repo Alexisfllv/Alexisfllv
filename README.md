@@ -1,15 +1,9 @@
 ## 🖥️ Mood del Programador
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/8a/2f/66/8a2f66cd656b6bd66fea40947e505b4e.gif" width="600px" />
-</p>
+
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/60/a5/85/60a58511e5c70a418ac743f7df8134fa.gif" width="600px" />
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/ef/22/58/ef225816f24fc1eef530dbd5c5a14f43.gif" width="600px" />
+  <img src="https://i.pinimg.com/originals/ef/22/58/ef225816f24fc1eef530dbd5c5a14f43.gif" width="650px" />
 </p>
 
 
