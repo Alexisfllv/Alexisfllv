@@ -1,8 +1,6 @@
-## Estilo Hacker 👨‍💻
+## Cuando no sabes si tu código va a compilar 😅
 
-Inspiración visual mientras programo:
-
-![GIF Hacker Code](https://i.pinimg.com/originals/60/a5/85/60a58511e5c70a418ac743f7df8134fa.gif)
+![GIF Programador Pensando](https://i.pinimg.com/originals/ef/22/58/ef225816f24fc1eef530dbd5c5a14f43.gif)
 
 
 ### 🌟 Sobre mí
