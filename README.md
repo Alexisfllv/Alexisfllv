@@ -1,4 +1,9 @@
-![Banner](https://i.ytimg.com/vi/EeDiWTasCsU/maxresdefault.jpg)
+## Ejemplo de integración de GIF en Markdown
+
+Aquí tienes un GIF animado como ejemplo:
+
+![GIF de Matrix](https://i.pinimg.com/originals/8a/2f/66/8a2f66cd656b6bd66fea40947e505b4e.gif)
+
 ### 🌟 Sobre mí
 Soy un desarrollador backend apasionado por la programación y el aprendizaje continuo. Me especializo en **Java**, con experiencia en la creación de servicios RESTful, manejo de bases de datos y desarrollo de aplicaciones web.  
 ---
