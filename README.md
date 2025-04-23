@@ -9,7 +9,8 @@
 📞 +51 920 287 650  
 🪪 DNI: 70576713  
 🔗 [GitHub: Alexisfllv](https://github.com/Alexisfllv)
-
+- **CV**
+[📄 Ver mi CV en PDF](https://github.com/Alexisfllv/my-cv/blob/main/CV_CristhianAlexisMarcasQuispe.pdf)
 ---
 
 ## 👨‍💻 Perfil Profesional
@@ -80,8 +81,7 @@ Formación integral en análisis, diseño y desarrollo de sistemas de informaci�
   📄 [Ver certificado](https://github.com/Alexisfllv/my-cv/blob/main/Certificado%20CVR%20PRNBCVR03%20_%20Campus%20Virtual%20Romero.pdf)
 - **SCRUM Fundamentos**  
   📄 [Ver certificado](https://github.com/Alexisfllv/my-cv/blob/main/CertificateScrum.pdf)
-- **CV**
-[📄 Ver mi CV en PDF](https://github.com/Alexisfllv/my-cv/blob/main/CV_CristhianAlexisMarcasQuispe.pdf)
+
 
 ---
 ### ⚡ Datos curiosos
