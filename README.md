@@ -9,9 +9,9 @@
 📞 +51 920 287 650  
 🪪 DNI: 70576713  
 🔗 [GitHub: Alexisfllv](https://github.com/Alexisfllv)
-- **CV**
-[📄 Ver mi CV en PDF](https://github.com/Alexisfllv/my-cv/blob/main/CV_CristhianAlexisMarcasQuispe.pdf)
----
+### 📌 CV Profesional
+- [📄 Ver CV (Google Drive)](https://drive.google.com/file/d/1hnzPx8FT6uc61mthOswsskmsb4y55CeY/view?usp=sharing)
+
 
 ## 👨‍💻 Perfil Profesional
 
