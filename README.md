@@ -8,9 +8,7 @@
 📍 Lima, Perú  
 📞 +51 920 287 650  
 🪪 DNI: 70576713  
-🔗 [GitHub: Alexisfllv](https://github.com/Alexisfllv)
-### 📌 CV Profesional
-- [📄 Ver CV (Google Drive)](https://drive.google.com/file/d/1hnzPx8FT6uc61mthOswsskmsb4y55CeY/view?usp=sharing)
+
 
 
 ## 👨‍💻 Perfil Profesional
@@ -71,16 +69,6 @@ Formación integral en análisis, diseño y desarrollo de sistemas de informaci�
 
 ---
 
-## 📜 Certificaciones
-
-- **IDAT** – Desarrollo de Sistemas de Información  
-  📄 [Ver certificado](https://github.com/Alexisfllv/my-cv/blob/main/CRISTHIAN%20ALEXIS%20MARCAS%20QUISPE.PDF)
-- **Certificado de Conocimientos Multidisciplinarios – Beca Pronabec**  
-  📄 [Ver certificado](https://github.com/Alexisfllv/my-cv/blob/main/bcebfcf4-abd8-40c4-8fdd-2beff91c86ca-3%20(1).pdf)
-- **Competencias de Empleabilidad – Beca Pronabec**  
-  📄 [Ver certificado](https://github.com/Alexisfllv/my-cv/blob/main/Certificado%20CVR%20PRNBCVR03%20_%20Campus%20Virtual%20Romero.pdf)
-- **SCRUM Fundamentos**  
-  📄 [Ver certificado](https://github.com/Alexisfllv/my-cv/blob/main/CertificateScrum.pdf)
 
 
 ---
