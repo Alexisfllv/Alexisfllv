@@ -9,8 +9,6 @@
 📞 +51 920 287 650  
 🪪 DNI: 70576713  
 
-
-
 ## 👨‍💻 Perfil Profesional
 
 Soy un desarrollador backend especializado en Java, con una sólida formación técnica y experiencia en proyectos personales utilizando Spring Boot, APIs RESTful y bases de datos relacionales. Apasionado por el aprendizaje constante, las buenas prácticas y el trabajo colaborativo. Estoy en busca de oportunidades que me permitan crecer en entornos tecnológicos modernos y dinámicos.
@@ -68,7 +66,6 @@ Formación integral en análisis, diseño y desarrollo de sistemas de informaci�
 - Organización de archivos, uso de la nube y navegación eficiente
 
 ---
-
 
 
 ---
