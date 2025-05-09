@@ -34,6 +34,9 @@ Formación integral en análisis, diseño y desarrollo de sistemas de informaci�
 - **Herramientas**: Git (básico), Maven, IntelliJ IDEA, Spring Tool Suite, Markdown, Obsidian, Marp.
 - **Testing y Buenas Prácticas**: JUnit 5, Mockito, principios de Clean Code y SOLID (nivel básico).
 
+- spring security
+- spring batch
+
 ---
 
 ## 🚀 Actualmente Aprendiendo
