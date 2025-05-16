@@ -36,7 +36,8 @@ Formación integral en análisis, diseño y desarrollo de sistemas de informaci�
 
 - spring security
 - spring batch
-- web client 
+- web client
+- Power bi
 
 ---
 
