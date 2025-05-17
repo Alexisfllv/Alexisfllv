@@ -38,6 +38,9 @@ Formación integral en análisis, diseño y desarrollo de sistemas de informaci�
 - spring batch
 - web client
 - Power bi
+- linux basico
+- iso 27001
+- scrum
 
 ---
 
