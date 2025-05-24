@@ -40,7 +40,8 @@ Formación integral en análisis, diseño y desarrollo de sistemas de informaci�
 - linux basico
 - iso 27001
 - scrum
-- temps
+- rest template
+- spring ia
 
 ---
 
