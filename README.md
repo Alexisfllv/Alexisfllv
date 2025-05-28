@@ -35,13 +35,10 @@ Formación integral en análisis, diseño y desarrollo de sistemas de informaci�
 
 - spring security
 - spring batch
-- web client
-- Power bi
-- linux basico
-- iso 27001
-- scrum
-- rest template
-- spring ia
+- Rest Template
+- Git HUB
+- DOCKER
+- 
 
 ---
 
