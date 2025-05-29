@@ -38,6 +38,8 @@ Formación integral en análisis, diseño y desarrollo de sistemas de informaci�
 - Rest Template
 - Git HUB
 - DOCKER
+- SCRUM
+- ISO27001
 - 
 
 ---
