@@ -34,13 +34,11 @@ Formación integral en análisis, diseño y desarrollo de sistemas de informaci�
 - **Testing y Buenas Prácticas**: JUnit 5, Mockito, principios de Clean Code y SOLID (nivel básico).
 
 - spring security
-- spring batch
 - Rest Template
 - Git HUB
 - DOCKER
 - SCRUM
 - ISO27001
-- 
 
 ---
 
