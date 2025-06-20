@@ -39,6 +39,7 @@ Formación integral en análisis, diseño y desarrollo de sistemas de informaci�
 - DOCKER
 - SCRUM
 - ISO27001
+- Gestion de proyectos
 
 ---
 
