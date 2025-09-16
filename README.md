@@ -5,8 +5,7 @@
 
 📧 alexisxscfl@gmail.com  
 📍 Lima, Perú  
-📞 +51 920 287 650  
-🪪 DNI: 70576713  
+
 
 ## 👨‍💻 Perfil Profesional
 
