@@ -5,22 +5,6 @@
 
 📧 alexisxscfl@gmail.com  
 📍 Lima, Perú  
-
-
-## 👨‍💻 Perfil Profesional
-
-Soy un desarrollador backend especializado en Java, con una sólida formación técnica y experiencia en proyectos personales utilizando Spring Boot, APIs RESTful y bases de datos relacionales. Apasionado por el aprendizaje constante, las buenas prácticas y el trabajo colaborativo. Estoy en busca de oportunidades que me permitan crecer en entornos tecnológicos modernos y dinámicos.
-
----
-
-## 🎓 Formación Académica
-
-**Instituto Superior Tecnológico IDAT**  
-Carrera: Computación e Informática — Mención en Desarrollo de Sistemas de Información  
-📌 Estado: Egresado  
-
-Formación integral en análisis, diseño y desarrollo de sistemas de información aplicando metodologías ágiles, patrones de diseño y herramientas modernas.
-
 ---
 
 ## 🛠️ Habilidades Técnicas
@@ -31,48 +15,6 @@ Formación integral en análisis, diseño y desarrollo de sistemas de informaci�
 - **APIs REST**: Diseño, pruebas (Postman), documentación (Swagger), manejo de errores y versionamiento.
 - **Herramientas**: Git (básico), Maven, IntelliJ IDEA, Spring Tool Suite, Markdown, Obsidian, Marp.
 - **Testing y Buenas Prácticas**: JUnit 5, Mockito, principios de Clean Code y SOLID (nivel básico).
-
-- spring security
-- Rest Template
-- Git HUB
-- DOCKER
-- SCRUM
-- ISO27001
-- Gestion de proyectos
-
----
-
-## 🚀 Actualmente Aprendiendo
-
-- Spring Security con JWT
-- Arquitectura de microservicios con Spring Framework
-- JasperReports
-- Pruebas integrales (repositorios y controladores)
-- Principios SOLID y TDD (nivel avanzado)
-- DevOps: Docker y Git (nivel intermedio)
-- Fundamentos de ciberseguridad, cloud computing, Scrum avanzado, ISO 27001, fundamentos de Linux, Power BI básico
-
----
-
-## 🧠 Habilidades Blandas
-
-- Comunicación efectiva y escucha activa
-- Trabajo colaborativo y liderazgo
-- Adaptabilidad, proactividad y pensamiento crítico
-- Gestión del tiempo y enfoque a resultados
-
----
-
-## 🖥️ Conocimientos en Ofimática
-
-- Microsoft Office (Word, Excel, PowerPoint) — Básico
-- Sistemas operativos: Windows y macOS
-- Google Workspace (Docs, Sheets, Slides)
-- Manejo de correo, calendarios y videollamadas (Outlook, Gmail, Teams, Zoom, Meet)
-- Organización de archivos, uso de la nube y navegación eficiente
-
----
-
 
 ---
 ### ⚡ Datos curiosos
